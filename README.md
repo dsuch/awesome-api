@@ -107,6 +107,7 @@
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
 * [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
 * [TestMace](https://testmace.com) – A modern powerful crossplatform tool for working with API and creating automated API tests.
+* [Zato API Test](https://zato.io/en/docs/3.3/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 
 ### Mocking
 
@@ -187,3 +188,4 @@
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+* [Zato](https://zato.io) - Open-source, Python IPaaS and API-first platform for building enterprise, server-side integrations, automations and API backends.
